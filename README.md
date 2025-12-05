@@ -56,22 +56,6 @@ SystemTray, TrayIcon
 
 Custom draggable window & UI
 
-🚀 How to Run
-1. Clone the repository
-git clone https://github.com/your-username/world-clock-widget.git
-cd world-clock-widget
-
-2. Compile
-javac WorldClockWidget.java
-
-3. Run
-java WorldClockWidget
-
-🧰 File Structure
-/WorldClockWidget
- ├── WorldClockWidget.java
- ├── README.md
- └── /resources  (optional future icons)
 
 🖼️ Screenshots 
 ![WhatsApp Image 2025-12-03 at 7 04 13 PM](https://github.com/user-attachments/assets/ed53ef96-96cc-4b8a-9d51-a3a421de0805)
